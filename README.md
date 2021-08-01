@@ -1,2 +1,2 @@
 # seam-carve
-An attempt at the seam carving algorithm using C++
+An attempt in C++ at the seam carving algorithm for class work and dynamic memory practice.
